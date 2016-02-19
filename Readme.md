@@ -1,5 +1,7 @@
 #A Coding Count Tool
 
+An easy tool for counting code
+
 ##Condition
 
  - required python2.7
@@ -8,12 +10,12 @@
 
  - to analysis current path
  ```shell
-python code_count.py
+python2.7 code_count.py
  ```
 
  - to analysis other path
  ```shell
-python code_count.py <path>
+python2.7 code_count.py <path>
 
  ```
 
