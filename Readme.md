@@ -1,12 +1,12 @@
-#A Coding Count Tool
+# A Coding Count Tool
 
 An easy tool for counting code
 
-##Condition
+## Condition
 
  - required python2.7
 
-##Usage
+## Usage
 
  - to analysis current path
  ```shell
@@ -19,12 +19,12 @@ python2.7 code_count.py <path>
 
  ```
 
-##Unsolved Question
+## Unsolved Question
 
  - this python script is only avaible in python2 because of the problem of encoding
  - welcome to push request to solve the quesion :)
 
-##Auther
+## Auther
 
  - email:       hsgwpj@gmail.com
  - blog:        blog.csdn.net/hsgwpj
